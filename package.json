@@ -1,0 +1,22 @@
+{
+  "name": "edabitjs",
+  "version": "1.0.0",
+  "description": "a collection of edabit challenges in JavaScript",
+  "main": "Edaaaaaabit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cptcrunchy/EdabitJS.git"
+  },
+  "author": "Jason Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cptcrunchy/EdabitJS/issues"
+  },
+  "homepage": "https://github.com/cptcrunchy/EdabitJS#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
